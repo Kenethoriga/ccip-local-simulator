@@ -2,7 +2,7 @@
 
 > **Note**
 >
-> _This repository represents an example of using a Chainlink product or service. It is provided to help you understand how to interact with Chainlink’s systems so that you can integrate them into your own. This template is provided "AS IS" without warranties of any kind, has not been audited, and may be missing key checks or error handling to make the usage of the product more clear. Take everything in this repository as an example and not something to be copy pasted into a production ready service._
+
 
 This project demonstrates how to use Chainlink CCIP to send tokens to a receiver using arbitrary data. This example is interesting for projects that want to send tokens crosschain that are not supported by Chainlink CCIP.
 
